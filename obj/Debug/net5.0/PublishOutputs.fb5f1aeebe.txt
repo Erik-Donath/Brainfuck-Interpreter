@@ -1,0 +1,5 @@
+C:\Users\erikd\Desktop\Brainfuck-Interpreter\bin\Debug\net5.0\publish\Brainfuck-Interpreter.exe
+C:\Users\erikd\Desktop\Brainfuck-Interpreter\bin\Debug\net5.0\publish\Brainfuck-Interpreter.dll
+C:\Users\erikd\Desktop\Brainfuck-Interpreter\bin\Debug\net5.0\publish\Brainfuck-Interpreter.deps.json
+C:\Users\erikd\Desktop\Brainfuck-Interpreter\bin\Debug\net5.0\publish\Brainfuck-Interpreter.runtimeconfig.json
+C:\Users\erikd\Desktop\Brainfuck-Interpreter\bin\Debug\net5.0\publish\Brainfuck-Interpreter.pdb
